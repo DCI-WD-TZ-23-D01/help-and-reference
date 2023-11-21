@@ -137,3 +137,6 @@
       * [validation / sanitation](https://github.com/D02-1/help-and-reference/blob/main/5_ba/3_sec/validation.md)
       * [JSON Web Token](https://github.com/D02-1/help-and-reference/blob/main/5_ba/3_sec/jsonwebtoken.md)
       * [cookies](https://github.com/D02-1/help-and-reference/blob/main/5_ba/3_sec/cookies.md)
+    * [Deployment](https://github.com/D02-1/help-and-reference/tree/main/5_ba/4_deployment) 
+      * [deployment](https://github.com/D02-1/help-and-reference/blob/main/5_ba/4_deployment/deployment.md)
+      
